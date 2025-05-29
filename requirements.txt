@@ -1,0 +1,12 @@
+# WeasyPrint and dependencies
+weasyprint==61.2
+
+# Required system bindings
+cairocffi>=1.6.0
+cffi>=1.15.0
+
+# PDF generation library (compatible version)
+pydyf>=0.10.0,<0.11.0
+
+# Optional: Additional useful packages for PDF generation
+Pillow>=10.0.0  # Image processing support
