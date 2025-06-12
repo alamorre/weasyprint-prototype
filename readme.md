@@ -2,6 +2,9 @@
 
 This is an example repo to get weasypring working with a Chainguard image to convert HTML to PDFs.
 
+## Setting expectations
+
+It's important to note Weasyprint is commonly slower than its EOL alternative, wkhtmltopdf. Please take this into consideration when exploring this alternative. 
 
 ### Getting started
 
